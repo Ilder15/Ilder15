@@ -125,9 +125,18 @@
 <table>
 <tr>
 <td>
-Técnico en Desarrollo de Software
+
+**Técnico Académico en Desarrollo de Software**
 <br>
-<small>En formación / Egresado</small>
+<small>Graduado</small>
+
+</td>
+<td>
+
+**Tecnólogo en Desarrollo de Software**
+<br>
+<small>Graduación 2026 — Materias y prácticas finalizadas</small>
+
 </td>
 </tr>
 </table>
