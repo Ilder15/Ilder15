@@ -106,6 +106,20 @@
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+
+![Ilder15's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilder15&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Ilder15&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ilder15&theme=radical&no-frame=true&column=7)
+
+</div>
+
+---
+
 ## Formación
 
 <table>
