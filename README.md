@@ -106,16 +106,6 @@
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ilder15&theme=radical&no-frame=true&column=7)
-
-</div>
-
----
-
 ## Formación
 
 <table>
