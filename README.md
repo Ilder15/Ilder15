@@ -5,7 +5,7 @@
 ### Desarrollador de Software
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ilder15)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilder15@users.noreply.github.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilderlopez5@gmail.com)
 
 </div>
 
@@ -13,7 +13,7 @@
 
 ## Sobre mí
 
-> Desarrollador de software con experiencia en **web full-stack**, **aplicaciones de escritorio** y **análisis de datos**. Apasionado por construir soluciones que resuelvan problemas reales, desde plataformas de adopción de mascotas hasta herramientas de cotización con facturación integrada.
+> Desarrollador de software con experiencia en **web**, **aplicaciones de escritorio** y **análisis de datos**. Apasionado por construir soluciones que resuelvan problemas reales, desde plataformas de adopción de mascotas hasta herramientas de cotización con facturación integrada.
 
 ---
 
@@ -47,7 +47,6 @@
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 </td>
