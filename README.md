@@ -88,7 +88,7 @@
 <td>
 
 ### [Libro-En-tu-Bolsillo](https://github.com/Ilder15/Libro-En-tu-Bolsillo)
-> Biblioteca virtual para acceder a libros digitales desde cualquier dispositivo.
+> Proyecto final de la técnica — Biblioteca virtual para acceder a libros digitales desde cualquier dispositivo.
 
 `PHP` `HTML` `CSS` `JavaScript`
 
@@ -97,10 +97,10 @@
 <tr>
 <td colspan="2">
 
-### [Proyecto-Final-ParcheFlex](https://github.com/Ilder15/Proyecto-Final-ParcheFlex-)
-> Proyecto final de desarrollo de software, aplicación de escritorio.
+### Backup Automator *(Próximamente)*
+> Proyecto final de tecnología — Herramienta de backup automático.
 
-`C%23` `.NET`
+`Por subir`
 
 </td>
 </tr>
@@ -112,9 +112,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ilder15&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Ilder15&layout=compact&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ilder15&theme=radical&no-frame=true&column=7)
 
 </div>
 
